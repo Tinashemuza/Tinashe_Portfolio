@@ -1,5 +1,9 @@
 # Tinashe_Portfolio
-This is a portfolio of projects that i have worked on, ranging from Actuarial, Data Science and Financial Engineering
+[Credly profile](https://www.credly.com/users/tinashe-muzambwa.fbbab15a)
+
+[Linkedin](https://www.linkedin.com/in/tinashe-muzambwa-2862a014b/)
+
+I'm a Quantitative Risk Specialist by profession and data science by practice. I hold a BSc in Actuarial Science and MSc in Financial Engineering, with a strong foundation in quantitative analysis, risk &financial modeling, and risk management.This is a portfolio of projects that i have worked on, ranging from Actuarial, Data Science and Financial Engineering
 
 # Actuarial Projects
 
