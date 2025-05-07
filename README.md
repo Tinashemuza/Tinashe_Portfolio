@@ -1,7 +1,20 @@
 # Tinashe_Portfolio
 This is a portfolio of projects that i have looked on, ranging from Actuarial, Data Science and Financial Engineering
 
-# Project 1: Derivative Pricing
-* In this project we are going to price vanilla options using the Binomial and Trinomial trees
-* Verify the price of vanilla options using the Put-Call Parity
-  
+# Actuarial Projects
+This is a portfolio of actuarial projects
+
+# Financial Engineering Projects
+This is a portfolio of projects that centre around the following financial engineering concepts
+1. Financial Markets
+2. Financial Data
+3. Financial Econometrics
+4. Derivative Pricing
+5. Stochastic Modeling
+6. Machine Learning in Finance
+7. Deep Learning for Finance
+8. Portfolio Management
+9. Risk Management
+
+# Data Science Projects
+Below is the list of projects that we have looked at
