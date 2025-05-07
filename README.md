@@ -9,7 +9,7 @@ This is a portfolio of projects that centre around the following financial engin
 1. Financial Markets
 2. Financial Data
 3. Financial Econometrics
-4. Derivative Pricing
+[Derivative Pricing](https://github.com/Tinashemuza/Pricing-Derivatives)
 5. Stochastic Modeling
 [6. Machine Learning in Finance](https://github.com/Tinashemuza/Machine-Learning-in-Finance)
 7. Deep Learning for Finance
