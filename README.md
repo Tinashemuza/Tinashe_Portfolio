@@ -15,6 +15,7 @@ This is a portfolio of projects that centre around the following financial engin
 [Machine Learning in Finance](https://github.com/Tinashemuza/Machine-Learning-in-Finance/blob/main/README.md)
 
 
+# Data Science
 [# Data Science Projects](https://github.com/Tinashemuza/Data-Science)
 
 Below is the list of projects that we have looked at
