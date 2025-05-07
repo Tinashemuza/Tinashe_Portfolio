@@ -1,20 +1,16 @@
 # Tinashe_Portfolio
-This is a portfolio of projects that i have looked on, ranging from Actuarial, Data Science and Financial Engineering
+This is a portfolio of projects that i have worked on, ranging from Actuarial, Data Science and Financial Engineering
 
-# Actuarial Projects
+[# Actuarial Projects](https://github.com/Tinashemuza/Actuarial-Work)
 This is a portfolio of actuarial projects
 
 # Financial Engineering Projects
 This is a portfolio of projects that centre around the following financial engineering concepts
-1. Financial Markets
-2. Financial Data
-3. Financial Econometrics
-[Derivative Pricing](https://github.com/Tinashemuza/Pricing-Derivatives)
-5. Stochastic Modeling
-[6. Machine Learning in Finance](https://github.com/Tinashemuza/Machine-Learning-in-Finance/blob/main/README.md)
-7. Deep Learning for Finance
-8. Portfolio Management
-9. Risk Management
 
-# Data Science Projects
+[Financial Econometrics](https://github.com/Tinashemuza/Financial_Econometrics)
+[Derivative Pricing](https://github.com/Tinashemuza/Pricing-Derivatives)
+[Machine Learning in Finance](https://github.com/Tinashemuza/Machine-Learning-in-Finance/blob/main/README.md)
+
+
+[# Data Science Projects](https://github.com/Tinashemuza/Data-Science)
 Below is the list of projects that we have looked at
