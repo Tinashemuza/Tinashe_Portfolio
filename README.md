@@ -1,7 +1,8 @@
 # Tinashe_Portfolio
 This is a portfolio of projects that i have worked on, ranging from Actuarial, Data Science and Financial Engineering
 
-[# Actuarial Projects](https://github.com/Tinashemuza/Actuarial-Work)
+#Actuarial Projects
+[](https://github.com/Tinashemuza/Actuarial-Work)
 
 
 # Financial Engineering Projects
