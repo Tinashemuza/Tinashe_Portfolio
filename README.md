@@ -7,6 +7,8 @@ This is a portfolio of projects that i have worked on, ranging from Actuarial, D
 
 # Actuarial Projects
 
+Application of Markov Chains in Credit Risk Modelling
+
 
 
 # Financial Engineering Projects
