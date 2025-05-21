@@ -8,11 +8,14 @@ This is a portfolio of projects that i have worked on, ranging from Actuarial, D
 # Actuarial Projects
 
 1. Time Series Models
-* ARIMA Model
-* ARMA Model
+* ARIMA Model Forecasting
+* ARMA Model Forecasting
   
-2. Application of Markov Chains in Credit Risk Modelling
+2. Risk Modelling in Banks
+* Application of Markov Chains in Credit Risk Modelling (PD, LGD, EAD)
 
+4. Risk Modelling in Insurance
+*IBNR
 
 
 
