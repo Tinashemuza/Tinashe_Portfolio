@@ -5,7 +5,7 @@
 
 This is a portfolio of projects that i have worked on, ranging from Actuarial, Data Science and Financial Engineering
 
-# Actuarial Projects
+# A. Actuarial Projects
 
 1. Time Series Models
 * ARIMA Model Forecasting
@@ -19,20 +19,34 @@ This is a portfolio of projects that i have worked on, ranging from Actuarial, D
 
 
 
-
-# Financial Engineering Projects
+# B. Financial Engineering Projects
 This is a portfolio of projects that centre around the following financial engineering concepts
 
-[Financial Econometrics](https://github.com/Tinashemuza/Financial_Econometrics)
-* Modelling Time series
+# Financial Concepts
 
-* 
-[Derivative Pricing](https://github.com/Tinashemuza/Pricing-Derivatives)
+1. Financial Market
 
-[Machine Learning in Finance](https://github.com/Tinashemuza/Machine-Learning-in-Finance/blob/main/README.md)
+2. Financial Data
+   
+[3. Financial Econometrics](https://github.com/Tinashemuza/Financial_Econometrics)
+
+[4. Derivative Pricing](https://github.com/Tinashemuza/Pricing-Derivatives)
+
+6. Stochastic Modeling
+   
+[8. Machine Learning in Finance](https://github.com/Tinashemuza/Machine-Learning-in-Finance/blob/main/README.md)
+
+9. Deep Learning for Finance
+    
+11. Portfolio Management
+    
+13. Risk Management
 
 
-# Data Science
+# C. Data Science
 [# Data Science Projects](https://github.com/Tinashemuza/Data-Science)
 
 Below is the list of projects that we have looked at
+
+
+# D. Data Analytics
